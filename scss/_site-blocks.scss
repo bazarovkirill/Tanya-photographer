@@ -94,7 +94,7 @@ $black: #000;
 
 .main-content {
 	float: right;
-	width: calc(100% - 300px);
+	width: calc(100% - 250px);
 	@include media-breakpoint-down(md) {
 		width: 100%;
 		position: relative;
