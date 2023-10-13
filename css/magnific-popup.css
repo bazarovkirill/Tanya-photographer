@@ -301,6 +301,29 @@ img.mfp-img {
   /**
        * Remove all paddings around the image on small screen
        */
+  .col-12{
+    position: 50px;
+  }
+
+  .section-bio{
+    top: 75px;
+    padding-top: 25px;
+  }
+  
+  .section-price{
+    margin-top: 25px;
+    padding-bottom: 25px;
+  }
+
+  .section-feedback{
+    padding-top: 0px;
+  }
+
+  .section-contact {
+    padding-bottom: 25px;
+    padding-top: 25px;
+  }
+
   .mfp-img-mobile .mfp-image-holder {
     padding-left: 0;
     padding-right: 0; }
