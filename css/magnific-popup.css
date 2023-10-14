@@ -301,8 +301,8 @@ img.mfp-img {
   /**
        * Remove all paddings around the image on small screen
        */
-  .col-12{
-    position: 50px;
+  .section-home{   
+    margin-top: 75px;
   }
 
   .section-bio{
