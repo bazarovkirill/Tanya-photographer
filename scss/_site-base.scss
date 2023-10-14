@@ -79,38 +79,38 @@ h1, h2, h3, h4, h5,
 	}
 }
 
-.btn {
-	// text-transform: uppercase;
-	// letter-spacing: .2em;
-	border-radius: 30px;
+// .btn {
+// 	// text-transform: uppercase;
+// 	// letter-spacing: .2em;
+// 	border-radius: 30px;
 	
-	&:hover, &:active, &:focus {
-		outline: none;
-		box-shadow: none!important;
-	}
-	&.btn-black {
-		color: $white;
-		background-color: $black;
-		&:hover {
-			color: $black;
-			background-color: $white;
-		}
-	}
-	&.btn-outline-white {
-		border: 2px solid $white;
-		&:hover {
-			background: $white;
-			color: $primary!important;
-		}
-	}
-	&.btn-md {
-		padding: 15px 30px;
-		font-size: 14px;
-		font-weight: bold;
-		text-transform: uppercase;
-		letter-spacing: .1em;
-	}
-}
+// 	&:hover, &:active, &:focus {
+// 		outline: none;
+// 		box-shadow: none!important;
+// 	}
+// 	&.btn-black {
+// 		color: $white;
+// 		background-color: $black;
+// 		&:hover {
+// 			color: $black;
+// 			background-color: $white;
+// 		}
+// 	}
+// 	&.btn-outline-white {
+// 		border: 2px solid $white;
+// 		&:hover {
+// 			background: $white;
+// 			color: $primary!important;
+// 		}
+// 	}
+// 	&.btn-md {
+// 		padding: 15px 30px;
+// 		font-size: 14px;
+// 		font-weight: bold;
+// 		text-transform: uppercase;
+// 		letter-spacing: .1em;
+// 	}
+// }
 
 .line-height-1 {
 	line-height: 1!important;
