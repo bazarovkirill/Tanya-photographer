@@ -151,6 +151,24 @@ a:hover {
 }
 
 @media (min-width:768px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.site-section {
 		padding: 5em 0;
 	}
@@ -168,6 +186,24 @@ a:hover {
 }
 
 @media (min-width:768px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.site-section-heading {
 		font-size: 4rem;
 	}
@@ -207,6 +243,24 @@ a:hover {
 }
 
 @media (min-width:768px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.site-footer {
 		padding: 8em 0;
 	}
@@ -262,6 +316,24 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.hover-bg-enlarge {
 		height: auto!important;
 	}
@@ -283,6 +355,24 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.hover-bg-enlarge .bg-image-md-height {
 		height: 300px!important;
 	}
@@ -841,6 +931,24 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.header-bar {
 		width: 100%;
 		position: fixed;
@@ -856,6 +964,24 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.header-bar .site-logo {
 		margin-right: auto;
 		margin-bottom: 0;
@@ -874,6 +1000,24 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.header-bar .main-menu {
 		display: none;
 	}
@@ -886,6 +1030,24 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.header-bar ul {
 		display: inline-block;
 		margin-bottom: 0;
@@ -898,6 +1060,24 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.header-bar ul li {
 		display: inline-block;
 	}
@@ -912,6 +1092,24 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.header-bar ul li a {
 		padding: 4px 10px;
 	}
@@ -948,6 +1146,24 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.main-content {
 		width: 100%;
 		position: relative;
@@ -963,6 +1179,24 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.main-content .container-fluid {
 		padding-left: 15px;
 		padding-right: 15px;
@@ -1034,6 +1268,24 @@ a:hover {
 }
 
 @media (max-width:575px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }
 	.main-content .photos .photo-item img {
 		height: 200px;
 	}
@@ -1140,6 +1392,25 @@ a:hover {
 }
 
 @media (min-width:768px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }     
+  
 	.site-section-hero .heading {
 		font-size: 4rem;
 	}
@@ -1182,6 +1453,25 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }     
+  
 	.site-section .heading {
 		font-size: 2.5rem;
 	}
@@ -1203,6 +1493,25 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      }     
+  
 	.block-13 .owl-nav,.slide-one-item .owl-nav {
 		display: none;
 	}
@@ -1280,6 +1589,25 @@ a:hover {
 }
 
 @media (min-width:768px) {
+	.section-home {
+        margin-top: 75px;
+      }
+      .section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+      .section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+      .section-feedback{
+        padding-top: 0px;
+      }
+      .section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
+      } 
+  
 	.slide-one-item.home-slider .owl-next,.slide-one-item.home-slider .owl-prev {
 		font-size: 25px;
 	}
