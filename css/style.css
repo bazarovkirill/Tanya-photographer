@@ -152,7 +152,7 @@ a:hover {
 
 @media (min-width:768px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -187,7 +187,7 @@ a:hover {
 
 @media (min-width:768px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -244,7 +244,7 @@ a:hover {
 
 @media (min-width:768px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -317,7 +317,7 @@ a:hover {
 
 @media (max-width:991px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -356,7 +356,7 @@ a:hover {
 
 @media (max-width:991px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -407,12 +407,18 @@ a:hover {
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 20%;
+      }
 	.img-md-fluid {
 		max-width: 100%;
 	}
 }
 
 @media (max-width:991px) {
+	.section-home {
+        margin-top: 20%;
+      }
 	.display-1,.display-3 {
 		font-size: 3rem;
 	}
@@ -932,7 +938,7 @@ a:hover {
 
 @media (max-width:991.98px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -965,7 +971,7 @@ a:hover {
 
 @media (max-width:991.98px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1001,7 +1007,7 @@ a:hover {
 
 @media (max-width:991.98px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1031,7 +1037,7 @@ a:hover {
 
 @media (max-width:991px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1061,7 +1067,7 @@ a:hover {
 
 @media (max-width:991px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1093,7 +1099,7 @@ a:hover {
 
 @media (max-width:991px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1147,7 +1153,7 @@ a:hover {
 
 @media (max-width:991.98px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1180,7 +1186,7 @@ a:hover {
 
 @media (max-width:991.98px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1269,7 +1275,7 @@ a:hover {
 
 @media (max-width:575px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1393,7 +1399,7 @@ a:hover {
 
 @media (min-width:768px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1454,7 +1460,7 @@ a:hover {
 
 @media (max-width:991px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1494,7 +1500,7 @@ a:hover {
 
 @media (max-width:991px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
@@ -1590,7 +1596,7 @@ a:hover {
 
 @media (min-width:768px) {
 	.section-home {
-        margin-top: 75px;
+        margin-top: 20%;
       }
       .section-bio{
         top: 75px;
