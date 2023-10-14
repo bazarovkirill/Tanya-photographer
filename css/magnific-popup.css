@@ -297,14 +297,14 @@ img.mfp-img {
 .mfp-gallery .mfp-image-holder .mfp-figure {
   cursor: pointer; }
 
-@media screen and (max-width: 800px) and (orientation: landscape), screen and (max-height: 300px) {
+@media screen and (max-width: 1000px) and (orientation: landscape), screen and (max-height: 400px) {
   /**
        * Remove all paddings around the image on small screen
        */
-
-      .section-home{         
-        margin-top: 25px;
+       .section-home-photos {
+        top: 75px;
       }
+      
       .section-bio{
         top: 75px;
         padding-top: 25px;
@@ -320,7 +320,7 @@ img.mfp-img {
         padding-bottom: 25px;
         padding-top: 25px;
       }     
-
+  
   .mfp-img-mobile .mfp-image-holder {
     padding-left: 0;
     padding-right: 0; }
@@ -354,9 +354,11 @@ img.mfp-img {
     background: rgba(0, 0, 0, 0.6);
     position: fixed;
     text-align: center;
-    padding: 0; } }
+    padding: 0; } 
+  }
+    
 
-@media all and (max-width: 900px) {
+@media all and (max-width: 1010px) {
   .mfp-arrow {
     -webkit-transform: scale(0.75);
     transform: scale(0.75); }
