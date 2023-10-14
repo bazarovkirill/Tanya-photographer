@@ -302,8 +302,8 @@ img.mfp-img {
        * Remove all paddings around the image on small screen
        */
 
-      .section-home-photos{         
-        top: 75px;
+      .section-home{         
+        margin-top: 25px;
       }
       .section-bio{
         top: 75px;
