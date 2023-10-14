@@ -301,7 +301,8 @@ img.mfp-img {
   /**
        * Remove all paddings around the image on small screen
        */
-  .section-home{   
+       
+  .container-fluid{   
     margin-top: 75px;
   }
 
