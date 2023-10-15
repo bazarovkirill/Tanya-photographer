@@ -151,25 +151,25 @@ a:hover {
 }
 
 @media (min-width:768px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+    #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
-	.site-section {
+	#site-section {
 		padding: 5em 0;
 	}
 }
@@ -186,21 +186,21 @@ a:hover {
 }
 
 @media (min-width:768px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -243,21 +243,21 @@ a:hover {
 }
 
 @media (min-width:768px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -316,21 +316,21 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -355,21 +355,21 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -407,8 +407,23 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
+      }
+	  #section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+	#section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+	#section-feedback{
+        padding-top: 0px;
+      }
+	#section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
       }
 	.img-md-fluid {
 		max-width: 100%;
@@ -416,8 +431,23 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
+      }
+	  #section-bio{
+        top: 75px;
+        padding-top: 25px;
+      }
+	#section-price{
+        margin-top: 25px;
+        padding-bottom: 25px;
+      }
+	#section-feedback{
+        padding-top: 0px;
+      }
+	#section-contact {
+        padding-bottom: 25px;
+        padding-top: 25px;
       }
 	.display-1,.display-3 {
 		font-size: 3rem;
@@ -937,21 +967,21 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -970,21 +1000,21 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1006,21 +1036,21 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1036,21 +1066,21 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1066,21 +1096,21 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1098,21 +1128,21 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1152,21 +1182,21 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1185,21 +1215,21 @@ a:hover {
 }
 
 @media (max-width:991.98px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1274,21 +1304,21 @@ a:hover {
 }
 
 @media (max-width:575px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
       }
@@ -1398,24 +1428,24 @@ a:hover {
 }
 
 @media (min-width:768px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
-      }     
+      }   
   
 	.site-section-hero .heading {
 		font-size: 4rem;
@@ -1459,25 +1489,24 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
-      }     
-  
+      }
 	.site-section .heading {
 		font-size: 2.5rem;
 	}
@@ -1499,24 +1528,24 @@ a:hover {
 }
 
 @media (max-width:991px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
-      }     
+      }  
   
 	.block-13 .owl-nav,.slide-one-item .owl-nav {
 		display: none;
@@ -1595,24 +1624,24 @@ a:hover {
 }
 
 @media (min-width:768px) {
-	.section-home {
-        margin-top: 20%;
+	.col-12{
+        top: 75px;
       }
-      .section-bio{
+	  #section-bio{
         top: 75px;
         padding-top: 25px;
       }
-      .section-price{
+	#section-price{
         margin-top: 25px;
         padding-bottom: 25px;
       }
-      .section-feedback{
+	#section-feedback{
         padding-top: 0px;
       }
-      .section-contact {
+	#section-contact {
         padding-bottom: 25px;
         padding-top: 25px;
-      } 
+      }
   
 	.slide-one-item.home-slider .owl-next,.slide-one-item.home-slider .owl-prev {
 		font-size: 25px;
