@@ -533,3 +533,10 @@ $black: #000;
     border-bottom: 1px solid rgba($white, .5);
   }
 }
+
+@media (max-width: 991.98px) {
+.main-content .container-fluid {
+    margin-top: 25%;
+    padding-left: 15px;
+    padding-right: 15px;
+} }
