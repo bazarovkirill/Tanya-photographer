@@ -150,6 +150,8 @@ a:hover {
 	padding: 2.5em 0;
 }
 
+
+
 @media (min-width:768px) {
 	.col-12{
         top: 75px;
@@ -1384,6 +1386,7 @@ a:hover {
 .price-content {
 	color: #0A0A0A;
 }
+
 
 .custom-pagination {
 	margin-top: 50px;
