@@ -1825,12 +1825,12 @@ a:hover {
 	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 
-#price-content br {
+#price-content .price-content br {
 	display: none;
   }
 
   @media (max-width: 768px) {
-	#price-content br {
+	#price-content .price-content br {
 	  display: initial;
 	}
   }
