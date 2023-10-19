@@ -1825,4 +1825,14 @@ a:hover {
 	border-bottom: 1px solid rgba(255, 255, 255, 0.5);
 }
 
+#br br {
+	display: none;
+  }
+
+  @media (max-width: 768px) {
+	#br br {
+	  display: initial;
+	}
+  }
+
 /*# sourceMappingURL=style.css.map */
